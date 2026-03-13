@@ -26,7 +26,7 @@ public class PurchasePage {
 
     public void enterDetails()
     {
-        driver.findElement(name).sendKeys("Pragitya");
+        driver.findElement(name).sendKeys("Harthik");
         driver.findElement(address).sendKeys("Bangalore");
         driver.findElement(city).sendKeys("Bangalore");
         driver.findElement(state).sendKeys("Karnataka");
